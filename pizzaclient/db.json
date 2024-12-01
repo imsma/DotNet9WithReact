@@ -1,0 +1,49 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Margherita",
+      "description": "Tomato sauce, mozzarella, basil"
+    },
+    {
+      "id": "2",
+      "name": "Salami",
+      "description": "Tomato sauce, mozzarella, salami"
+    },
+    {
+      "id": "3",
+      "name": "Funghi",
+      "description": "Tomato sauce, mozzarella, mushrooms"
+    },
+    {
+      "id": "4",
+      "name": "Prosciutto",
+      "description": "Tomato sauce, mozzarella, ham"
+    },
+    {
+      "id": "5",
+      "name": "Quattro Stagioni",
+      "description": "Tomato sauce, mozzarella"
+    },
+    {
+      "id": "6",
+      "name": "Capricciosa",
+      "description": "Tomato sauce, mozzarella, "
+    },
+    {
+      "id": "7",
+      "name": "Quattro Formaggi",
+      "description": "Tomato sauce, mozzarella, "
+    },
+    {
+      "id": "9",
+      "name": "Frutti di Mare",
+      "description": "Tomato sauce, seafood"
+    },
+    {
+      "id": "10",
+      "name": "Diavola",
+      "description": "Tomato sauce, mozzarella"
+    }
+  ]
+}
