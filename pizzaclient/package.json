@@ -9,7 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "mockserver": "json-server --watch db.json --port 5100",
-    "startdev": "concurrently \"npm run dev\" \"npm run mockserver\""
+    "dotnet-server": "dotnet run --project ../pizzaserver/pizzaserver.csproj",
+    "dev-with-mock": "concurrently \"npm run dev\" \"npm run mockserver\"",
+    "dev-with-server": "concurrently \"npm run dotnet-server\" \"npm run dev\""
   },
   "dependencies": {
     "react": "^18.3.1",
