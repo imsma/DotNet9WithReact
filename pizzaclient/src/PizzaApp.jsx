@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import PizzaList from "./PizzaList";
 
 const term = "Pizza";
-const API_URL = "/pizzas";
+const API_URL = "api/v1/pizzas";
 const headers = {
   "Content-Type": "application/json",
 };
